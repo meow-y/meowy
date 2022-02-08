@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @qafka
+- 👋 Hi, I’m @meowy0x
 - :octocat:I am interested in contributing Open Source.
 - 👀 Blockchain and Crypto enthusiastic.
 - 🌱 I’m currently learning Web3.
 - 💞️ I’m looking to collaborate on my projects. 
 - :four_leaf_clover: If you are interested to hire me then let me know as well
-- 📫 How to reach me: <h3>Twitter:</h3>  <h4>@0xqaf</h4>
+- 📫 How to reach me: <h3>Twitter:</h3>  <h4>@me256ow</h4>
 
 <!---
 qafka/qafka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
