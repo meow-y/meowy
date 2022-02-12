@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @meowy0x
+- 👋 Hi, I’m @nyaowy
 - :octocat:I am interested in contributing Open Source.
 - 👀 Blockchain and Crypto enthusiastic.
 - 🌱 I’m currently learning Web3.
