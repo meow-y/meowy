@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nyaowy
+- 👋 Hi, I’m @myaowy or Qaf
 - :octocat:I am interested in contributing Open Source.
 - 👀 Blockchain and Crypto enthusiastic.
 - 🌱 I’m currently learning Web3.
