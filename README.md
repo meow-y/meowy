@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @myaowy or Qaf
+- 👋 Hi, I’m @myaowy
 - :octocat:I am interested in contributing Open Source.
 - 👀 Blockchain and Crypto enthusiastic.
 - 🌱 I’m currently learning Web3.
@@ -7,6 +7,6 @@
 - 📫 How to reach me: <h3>Twitter:</h3>  <h4>@me256ow</h4>
 
 <!---
-qafka/qafka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meowy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
