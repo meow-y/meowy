@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @myaowy
+- 👋 Hi, I’m @meow-y
 - :octocat:I am interested in contributing Open Source.
 - 👀 Blockchain and Crypto enthusiastic.
 - 🌱 I’m currently learning Web3.
