@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Web3.
 - 💞️ I’m looking to collaborate on my projects. 
 - :four_leaf_clover: If you are interested to hire me then let me know as well
-- 📫 How to reach me: <h3>Twitter:</h3>  <h4>@mwwey</h4>
+
 
 <!---
 meowy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
