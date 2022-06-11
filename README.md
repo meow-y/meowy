@@ -6,7 +6,7 @@
 
 
 
-### Tools:
+### 🌈 Tools:
 
 <p align="left">
 
@@ -20,7 +20,7 @@
 </p>
 
 
-### Want to learn:
+### 🧠 Want to learn:
 
 <p align="left">
 
