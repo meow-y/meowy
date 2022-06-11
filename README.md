@@ -6,7 +6,7 @@
 
 
 
-### Tools I have been learning and building with:
+### Tools:
 
 <p align="left">
 
