@@ -1,19 +1,31 @@
-- 👋 Hi, I’m @meow-y
-- 🌱 I’m currently learning and building with [Developer DAO](https://github.com/Developer-DAO)
-
+# 👋 Hi, I’m @meow-y
 ---
+## 🌱 I’m currently learning and building with [Developer DAO](https://github.com/Developer-DAO)
 
 
 
-<h2>I have been learning and building with</h2>
+
+
+### Tools I have been learning and building with:
 
 <p align="left">
 
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-BAC9F9?style=flat-square&logo=solidity&logoColor=363636" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-1DA6D0?style=flat-square&logo=react&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" />
+  
+
+</p>
+
+
+### Want to learn:
+
+<p align="left">
+
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-F44A00?style=flat-square&logo=Rust&logoColor=black" />
+   <img alt="Golang" src="https://img.shields.io/badge/-Golang-6AD7E4?style=flat-square&logo=Go&logoColor=black" />
   
  
 
