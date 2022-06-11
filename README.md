@@ -1,22 +1,30 @@
 - 👋 Hi, I’m @meow-y
 - 🌱 I’m currently learning and building with [Developer DAO](https://github.com/Developer-DAO)
 
+---
 
 
-<h2>🚀 Some Tools I Use</h2>
+
+<h2>I have been learning and building with</h2>
 
 <p align="left">
+
+  <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-BAC9F9?style=flat-square&logo=solidity&logoColor=363636" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" />
   
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" />
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img alt="Solidity" src="https://img.shields.io/badge/-Solidity-BAC9F9?style=flat-square&logo=solidity&logoColor=363636" />
-<img alt="Ethereum" src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="Web3.js" src="https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" />
-<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
-<img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+ 
 
 </p>
+
+![Meowy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meow-y&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meow-y&langs_count=6&hide=TeXt&hide_border=true&layout=compact&theme=radical)
+
+
+
+
 
 
 <!---
