@@ -10,6 +10,8 @@
 
 ### 🌈 Tools:
 
+<h4>🌿 Currently learning and building with:</h4> 
+
 <p align="left">
 
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-BAC9F9?style=flat-square&logo=solidity&logoColor=363636" />
@@ -22,7 +24,7 @@
 </p>
 
 
-### 🧠 Want to learn:
+<h4> 🧠 Want to learn: </h4> 
 
 <p align="left">
 
