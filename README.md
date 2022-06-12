@@ -13,15 +13,19 @@
 <h4>🌿 Currently learning and building with:</h4> 
 
 <p align="left">
+ 
+ 
+ <ul>
+ <li><img alt="Solidity" src="https://img.shields.io/badge/-Solidity-BAC9F9?style=flat-square&logo=solidity&logoColor=363636" /></li>
+  <li> <img alt="Web3.js" src="https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" /></li>
+  <li>  <img alt="React" src="https://img.shields.io/badge/-React-1DA6D0?style=flat-square&logo=react&logoColor=white" /></li>
+  <li> <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white" /></li>
+  <li><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /></li>
+<li><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" /></li>
+ 
 
-  <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-BAC9F9?style=flat-square&logo=solidity&logoColor=363636" />
-  <img alt="Ethereum" src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
-  <img alt="Web3.js" src="https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-1DA6D0?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" />
-  
+</ul>
+
 
 </p>
 
@@ -30,8 +34,17 @@
 
 <p align="left">
 
-  <img alt="Rust" src="https://img.shields.io/badge/-Rust-F44A00?style=flat-square&logo=Rust&logoColor=black" />
-   <img alt="Golang" src="https://img.shields.io/badge/-Golang-6AD7E4?style=flat-square&logo=Go&logoColor=black" />
+
+<ul>
+ 
+  <li>MEV</li>
+  <li>ZK</li>
+  <li><img alt="Rust" src="https://img.shields.io/badge/-Rust-F44A00?style=flat-square&logo=Rust&logoColor=black" /></li>
+  <li> <img alt="Golang" src="https://img.shields.io/badge/-Golang-6AD7E4?style=flat-square&logo=Go&logoColor=black" /></li>
+  <li>Cryptography</li>
+  <li>Solana</li>
+
+</ul>
   
  
 
