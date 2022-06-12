@@ -1,6 +1,8 @@
 # 👋 Hi, I’m @meow-y
 ---
-## 🌱 I’m currently learning and building with [Developer DAO](https://github.com/Developer-DAO)
+ ## 🌱 I am aiming to become a Shadowy Super Blockchain Developer.
+
+### (🧱,🚀) Learning and building with [Developer DAO](https://twitter.com/developer_dao)
 
 
 
