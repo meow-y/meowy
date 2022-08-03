@@ -45,7 +45,11 @@
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a> <br/>
 
 <ul>
-
+ <li>vyper</li>
+<li>huff</li>
+<li>foundry</li>
+<li>rust</li>
+<li>go</li>
  <li>Cryptography</li>
  <li>ZK</li>
 
