@@ -57,8 +57,8 @@
 
 </p>
 
-![Meowy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meow-y&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meow-y&langs_count=6&hide=TeXt&hide_border=true&layout=compact&theme=radical)
+![Meowy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meowykun&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meowykun&langs_count=6&hide=TeXt&hide_border=true&layout=compact&theme=radical)
 
 
 <h2>🐱 Socials</h2>
